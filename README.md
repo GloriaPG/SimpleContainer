@@ -5,7 +5,7 @@
 
 2. java 8 +
 
-usar http://sdkman.io/ para instalas de forma mas facil
+usar http://sdkman.io/ para instalar de forma mas facil
 
 ### Correr proyecto
 ```
